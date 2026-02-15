@@ -1,2 +1,2 @@
 # averaged_dual_interpolation_scheme_formulation
-averaged dual interpolation scheme formulation
+This repository contains two Mathematica notebooks that provide a complete step-by-step derivation of the averaged dual-path interpolation scheme for quasi-C¹ continuous eight-node quadrilateral elements. The formulation is a core component of the unified quasi-C¹-PIM method for static and dynamic analysis of beams and plates with arbitrary cross-sections, as presented in our paper.
