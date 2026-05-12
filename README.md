@@ -4,7 +4,7 @@
 
 This repository provides the complete mathematical derivation and **continuity verification** of the **averaged dual-path interpolation scheme**, a novel approach to constructing quasi-C¹ continuous shape functions for eight-node quadrilateral elements. This formulation ensures derivative continuity across element boundaries while permitting internal discontinuity along a predefined partition, enabling smooth stress fields without post-processing in finite element analysis of beams and plates.
 
-The derivation presented here corresponds to Section 2.1 of our paper: *"A Unified Quasi-C¹-PIM Formulation for Static and Dynamic Analysis of Beams and Plates with Arbitrary Cross-Sections"* (submitted to *Applied Sciences*).
+The derivation presented here corresponds to Section 2.1 of our paper: *"A unified quasi-C¹ point interpolation formulation for arbitrary cross-section beams and plates"* (submitted to *Structural Engineering and Mechanics*).
 
 ## Repository Contents
 
@@ -92,6 +92,6 @@ To generate the cross-sectional property matrices:
 
 If you use this derivation in your research, please cite our paper:
 
-> He, G.; Li, X.; Li, X. A Unified Quasi-C¹-PIM Formulation for Static and Dynamic Analysis of Beams and Plates with Arbitrary Cross-Sections. *Applied Sciences* (submitted).
+> He, G.; Li, X.; Li, X. A unified quasi-C¹ point interpolation formulation for arbitrary cross-section beams and plates. *Structural Engineering and Mechanics* (submitted).
 
 For direct reference to this repository:
